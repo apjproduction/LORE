@@ -24,8 +24,6 @@ Lock NFTs, Borrow Crypto: Once installed, jump into LORE and start locking your 
 Contribute to LORE
 We're building something special here, and we'd love for you to be a part of it. Whether you're a seasoned developer or just passionate about DeFi, there's a place for you in the LORE community. Check out our Contribution Guidelines to learn how you can get involved.
 
-Questions or Suggestions?
-Got questions, feedback, or just want to chat? We're all ears! Shoot us an email at lore@yourdomain.com and let's connect.
 
 Let's Write the Future of DeFi Together
 With LORE, the possibilities are endless. Join us on this exciting journey as we rewrite the rules of decentralized finance, one NFT at a time.
