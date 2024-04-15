@@ -1,0 +1,29 @@
+{
+  "name": "lore",
+  "version": "1.0.0",
+  "description": "Decentralized lending platform using NFTs as collateral",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apjproduction/lore.git"
+  },
+  "keywords": [
+    "decentralize",
+    "finance",
+    "nft",
+    "leanding",
+    "collateral"
+  ],
+  "author": "Gianni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apjproduction/lore/issues"
+  },
+  "homepage": "https://github.com/apjproduction/lore#readme",
+  "dependencies": {
+    "@stake777/my-package": "github:apjproduction/stake777"
+  }
+}
